@@ -1,0 +1,28 @@
+.addTaskContainer {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  width: 90%;
+  margin: 0 auto;
+  padding: 20px;
+  gap: 10px;
+  border-radius: 15px;
+  border-bottom: 1px solid var(--outline-color);
+  box-shadow: inset -9px -10px 5px -5px rgba(0, 0, 0, 0.2);
+}
+
+.inputContainer {
+  border: 1px solid var(--outline-color);
+  border-radius: 10px;
+  width: 100%;
+}
+.input {
+  padding: 10px;
+  width: 100%;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--text-color);
+  background-color: transparent;
+}

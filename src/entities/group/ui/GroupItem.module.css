@@ -1,0 +1,40 @@
+.groupItem {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  cursor: pointer;
+  padding: 20px 10px;
+  border-radius: 10px;
+  border-bottom: 1px solid var(--outline-color);
+  box-shadow: inset -9px -10px 5px -5px rgba(0, 0, 0, 0.2);
+  transition: all 0.1s ease-in-out;
+}
+
+.groupItem:hover {
+  background-color: var(--hover-color);
+  box-shadow: 5px 10px 5px -5px rgba(0, 0, 0, 0.3);
+}
+.groupItem:active {
+  scale: 0.99;
+  background-color: var(--active-color);
+}
+
+.active {
+  background-color: var(--active-color);
+}
+
+
+.controls {
+  display: flex;
+  gap: 5px;
+  margin-left: auto;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+.icon:hover {
+  scale: 1.1;
+}

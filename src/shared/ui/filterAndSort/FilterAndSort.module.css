@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.select {
+  width: 100%;
+  max-width: 150px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 8px 32px 8px 12px;
+  font-size: 14px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.icon {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+.icon:hover {
+  scale: 1.1;
+}

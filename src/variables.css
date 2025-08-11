@@ -1,0 +1,12 @@
+:root {
+  --main-bg-color: rgba(255, 255, 255, 0.81);
+  --second-bg-color: rgba(248, 245, 245, 0.81);
+  --text-color: #0c0c0c;
+  --outline-color: rgba(13, 65, 230, 0.48);
+  --hover-color: rgb(104, 195, 212);
+  --active-color: rgba(30, 199, 237, 0.56);
+  --button-color: #55896d;
+  --success-color: #09c845;
+  --error-color: #e74c3c;
+  --warning-color: #f1c40f;
+}

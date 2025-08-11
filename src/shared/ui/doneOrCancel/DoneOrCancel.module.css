@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  margin-left: auto;
+  gap: 5px;
+}
+
+.iconContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 10px;
+  border: 1px solid var(--outline-color);
+  width: 25px;
+  height: 25px;
+  padding: 5px;
+  transition: scale 0.1s ease-in-out;
+  box-shadow: -5px 5px 5px -5px rgba(0, 0, 0, 0.2);
+}
+.iconContainer:hover {
+  box-shadow: -5px 5px 5px -5px rgba(0, 0, 0, 0.8);
+}
+.iconContainer:active {
+  scale: 0.8;
+}
+
+.icon {
+  cursor: pointer;
+  width: 100%;
+  height: 100%
+}
