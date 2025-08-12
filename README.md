@@ -1,12 +1,15 @@
 # React + TypeScript + Vite
 
-In this project, I tried to use as few third-party libraries as possible.
+[LIVE_DEMO](https://kulihaevgn.github.io/leadBolidTZ/)
+[CODESANDBOX](https://codesandbox.io/p/github/kulihaEvgn/leadBolidTZ/)
 
 ## 🚀 Запуск проекта
 
-1. Установить зависимости:
+1. Клонировать репозиторий
+
+2. Установить зависимости:
    ```bash
    yarn install
-2. Запустить приложение:
+3. Запустить приложение:
    ```bash
    yarn dev
