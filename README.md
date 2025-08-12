@@ -1,15 +1,16 @@
 # React + TypeScript + Vite
 
-[LIVE_DEMO](https://kulihaevgn.github.io/leadBolidTZ/)
-[CODESANDBOX](https://codesandbox.io/p/github/kulihaEvgn/leadBolidTZ/)
+* [LIVE_DEMO](https://kulihaevgn.github.io/leadBolidTZ/)
+
+* [CODESANDBOX](https://codesandbox.io/p/github/kulihaEvgn/leadBolidTZ/)
 
 ## 🚀 Запуск проекта
 
-1. Клонировать репозиторий
+1. Clone the repository
 
-2. Установить зависимости:
+2. Install dependencies:
    ```bash
    yarn install
-3. Запустить приложение:
+3. Launch the application:
    ```bash
    yarn dev
